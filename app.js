@@ -1,3 +1,4 @@
+var start = new Date().getTime()
 var arr01 = ['kiss', 'east', 'garbage', 'west']
 var arr02 = ['army', 'practice', 'script', 'answer']
 var arr03 = ['similar', 'jelly', 'crush', 'fiscal']
@@ -49,7 +50,7 @@ for (var a = 0; a < arr01.length; a++) {
                                             for (var w = 0; w < arr23.length; w++) {
                                               for (var x = 0; x < arr24.length; x++) {
 
-                                                output.push(
+                                                console.log(
                                                   arr01[a] +
                                                   arr02[b] +
                                                   arr03[c] +
