@@ -1,4 +1,4 @@
-var start = new Date().getTime()
+var start = "wow"
 console.log(start)
 // var arr01 = ['kiss', 'east', 'garbage', 'west']
 // var arr02 = ['army', 'practice', 'script', 'answer']
